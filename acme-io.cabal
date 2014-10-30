@@ -6,7 +6,7 @@ version:             0.1.0.0
 synopsis:            The only true way to do IO in Haskell!
 -- description:         
 homepage:            N/A
-license:             WTFPL
+license:             OtherLicense
 license-file:        LICENSE
 author:              benzrf
 maintainer:          benzrf@benzrf.com
